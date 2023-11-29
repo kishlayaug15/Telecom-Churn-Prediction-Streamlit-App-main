@@ -16,21 +16,6 @@ This is a Streamlit web application for predicting Telecom Churn. The app uses a
 ![](https://img.shields.io/github/stars/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.svg)
 ![](https://img.shields.io/github/issues/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App)
 ![](https://img.shields.io/github/last-commit/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App)
-  
- 
- <h4>
-    <a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App/issues">Request Feature</a>
-  </h4>
-</div>
-
-<br />
-
 
 <!-- Table of Contents -->
 
@@ -44,7 +29,6 @@ This is a Streamlit web application for predicting Telecom Churn. The app uses a
 - [Outputs](#rocket-outputs)
 - [Deployment and Notebook](#triangular_flag_on_post-deployment-and-notebook)
 - [License](#balance_scale-license)
-- [Contact](#handshake-contact)
 
 
 
@@ -78,7 +62,7 @@ The trained dataset is originally from the IBM Sample Datasets. The objective is
 Clone the repository and install the required dependencies using the following commands:
 
 ```bash
-git clone https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.git
+git clone https://github.com/kishlayaug15/Telecom-Churn-Prediction-Streamlit-App-main.git
 ```
 
 ```bash
@@ -91,13 +75,15 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+or
+python -m streamlit run app.py
 ```
 
 ## :play_or_pause_button: Usage
 
-1. Open the app in your web browser.
-2. Enter the required information in the input fields.
-3. Click the 'Predict' button to generate the prediction.
+Open the app in your web browser. <br>
+Enter the required information in the input fields.<br>
+Click the 'Predict' button to generate the prediction.<br>
 
 
 
@@ -122,23 +108,16 @@ The app will display following messages:
 
 ## :triangular_flag_on_post: Deployment and Notebook
 
-This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn about streamlit deployment [`here`](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app). Checkout the notebook repository [`here`](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App) from where the pickle file has been imployed in the tool.
+This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn about streamlit deployment [`here`](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app). Checkout the notebook repository [`here`](https://github.com/kishlayaug15/Telecom-Churn-Prediction-Streamlit-App-main) from where the pickle file has been imployed in the tool.
 
 
 
 ## :balance_scale: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kishlayaug15/Telecom-Churn-Prediction-Streamlit-App-main/blob/main/LICENSE) file for details.
 
 
-
-## :handshake: Contact
-
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-Your Name - [@twitter_handle](https://twitter.com/Priyans75729802) - 2040020@sliet.ac.in
-
-Project Link: [https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.git](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.git)
+Project Link: [https://github.com/kishlayaug15/Telecom-Churn-Prediction-Streamlit-App-main.git](https://github.com/kishlayaug15/Telecom-Churn-Prediction-Streamlit-App-main.git)
 <hr />
 <br />
 <div align="center">Don't forget to leave a star ⭐️</div>
